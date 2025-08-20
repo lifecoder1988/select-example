@@ -93,7 +93,7 @@ export default function Home() {
               <h3 className="ml-3 text-lg font-semibold text-gray-900">大数据量</h3>
             </div>
             <p className="text-gray-600">
-              处理10万条数据记录，通过分页和虚拟滚动技术确保良好的性能表现。
+              处理2万条数据记录，通过分页和虚拟滚动技术确保良好的性能表现。
             </p>
           </div>
 
