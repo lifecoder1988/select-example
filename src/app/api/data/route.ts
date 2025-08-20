@@ -29,7 +29,7 @@ let cachedData: any[] | null = null;
 
 function getData() {
   if (!cachedData) {
-    cachedData = generateTestData(100000);
+    cachedData = generateTestData(20000);
   }
   return cachedData;
 }
