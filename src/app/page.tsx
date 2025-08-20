@@ -25,8 +25,8 @@ export default function Home() {
             智能下拉选择框示例
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            支持模糊搜索的下拉选择组件，数据来源于API，包含10万条记录，
-            支持实时搜索、分页加载和无限滚动功能。
+            支持模糊搜索的下拉选择组件，数据来源于API，包含2万条记录，
+            支持实时搜索。
           </p>
         </div>
 
